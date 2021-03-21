@@ -1,0 +1,18 @@
+.nav-style{ 
+    margin-left: 60%;
+}
+.website-name{
+margin-right: 30%;
+font-size: 35px;
+font-weight: bolder;
+}
+.navbar{
+margin-right: 10%;
+
+}
+.login-btn{
+background-color: rgb(144, 119, 116);
+border: 2px solid rgb(165, 148, 115);
+border-radius: 7px;
+padding: 5px 30px !important;
+}

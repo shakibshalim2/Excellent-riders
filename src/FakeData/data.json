@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "name": "Bus",
+        "image": "https://a1alimo.com/wp-content/uploads/2017/01/motor-coach-wht-1.png"
+    },
+    {
+        "id": 1,
+        "name": "Car",
+        "image": "https://i.pinimg.com/originals/5d/4d/b6/5d4db6e517a689e87c4266f61d77f803.png"
+    },
+    {
+        "id": 3,
+        "name": "Train",
+        "image": "http://pngimg.com/uploads/trian/small/trian_PNG16664.png"
+    },
+    {
+        "id": 4,
+        "name": "Bike",
+        "image": "http://pngimg.com/uploads/motorcycle/small/motorcycle_PNG3142.png"
+    }
+]

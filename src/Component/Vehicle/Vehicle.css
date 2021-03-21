@@ -1,0 +1,27 @@
+.vehicle-size{
+width: 100%;
+padding: 6%;
+margin:0%;
+
+}
+.text-color{
+color: #ffe4e4;
+text-align: center;
+margin-bottom: 4%;
+}
+
+
+.img-bg{
+background-color: rgb(37, 42, 38);
+border:5px solid rgb(68, 57, 59);
+box-shadow: 10px 10px 5px #ccc;
+-moz-box-shadow: 10px 10px 5px rgb(0, 0, 0);
+-webkit-box-shadow: 10px 10px 5px rgb(0, 0, 0);
+-khtml-box-shadow: 10px 5px 5px rgb(12, 11, 11);
+
+}
+
+.all-vehicle{
+margin-top:15%;
+margin-bottom: 10%;
+}
