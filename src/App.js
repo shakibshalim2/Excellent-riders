@@ -16,7 +16,9 @@ import { createContext } from 'react';
 import { useState } from 'react';
 import PrivateRoute from './Component/PrivateRoute/PrivateRoute';
 
+
 export const UserContext = createContext()
+
 
 function App() {
   const [loggedInUser, setLoggedInUser] = useState({})
